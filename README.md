@@ -45,7 +45,7 @@ Run a single instance. Hunt cooldowns are kept in memory, so two processes on on
 
 | Variable | |
 |---|---|
-| `BOT_TOKEN` | Token from BotFather |
+| `BOT_TOKEN` |9122838721:AAFB-S2s0oqayVWFCgdfrb1M4kaIw8kuhiY  |
 | `MONGO_URI` | MongoDB connection string |
 | `MONGO_DATABASE` | Database name |
 | `ADMIN_IDS` | Comma-separated Telegram user ids allowed to use admin commands |
